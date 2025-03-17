@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "f87ac949-2606-4fda-8108-8a1dd162f544",
+    "name": "mohammed sahir faraz ali",
+    "email": "mohammedsahirfarazali13@gmail.com",
+    "password": "ali123",
+    "dob": "2002-05-13",
+    "age": 22
+  },
+  {
+    "user_id": "b40129e9-d23e-4062-863d-923abe889b51",
+    "name": "vamshi",
+    "email": "vk@gmail.com",
+    "password": "vamshi",
+    "dob": "2003-07-18",
+    "age": 21
+  },
+  {
+    "user_id": "17c74c91-b1dc-4f98-bd58-198f6a77b33f",
+    "name": "mohammed",
+    "email": "mohammed@gmail.com",
+    "password": "mohammed",
+    "dob": "2003-11-21",
+    "age": 21
+  }
+]
